@@ -7,5 +7,6 @@ fun bit of code that will crash any page the user is currently looking at
 
 
 
-https://user-images.githubusercontent.com/91833185/157527406-3372207e-a8c8-4c9d-abfa-cb690534f9b8.mp4
 
+
+![hacker-pepe](https://user-images.githubusercontent.com/91833185/157527708-c4f78819-6bec-42bf-8e91-dcb0471dd26e.gif)
