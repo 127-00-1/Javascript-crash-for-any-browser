@@ -1,5 +1,5 @@
 # Javascript-crash-for-any-browser
-fun bit of code that will crash any page the user is currently looking at
+fun bit of code that will crash any page the user is currently looking at, maybe the browser depending on if you sre running a toaster
 
 
 
